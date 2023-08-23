@@ -66,7 +66,7 @@ let fontSize = 1;
 let monoSynth;
 
 function setup() {
-  final = createCanvas(windowWidth, 500);
+  final = createCanvas(700, 500);
   repaintBackground();
   ruleSet = decToBin(110);
   textSize(fontSize);
