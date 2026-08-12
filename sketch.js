@@ -27,11 +27,11 @@ let sound = 3;
 
 let ruleSet = [0, 0, 0, 1, 1, 1, 1, 0];
 
-let colorR = 250;
+let colorR = 255;
 
-let colorG = 225;
+let colorG = 255;
 
-let colorB = 200;
+let colorB = 255;
 
 let combos = [
   1,
